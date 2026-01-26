@@ -1,4 +1,4 @@
-Hi 👋 My name is Himal Bhattarai
+Hi there, I’m Himal Bhattarai 👋
 ===============================
 
 About
