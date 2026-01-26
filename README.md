@@ -1,7 +1,7 @@
 Hi 👋 My name is Himal Bhattarai
 ===============================
 
-Developer Advocate & Content Creator
+About
 -----------------------------
 
 * 🌍  I'm based in Damak, Nepal
