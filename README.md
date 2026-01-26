@@ -22,7 +22,7 @@ About
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/himalbhattaraiofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a> <a href="http://x.com/himalbhattaraix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" /></a></p>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a> <a href="http://x.com/himalbhattaraix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" /></a> <a href="http://instagram.com/himalbhattaraiofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" /></a></p>
 
 ### Badges
 
