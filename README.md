@@ -1,18 +1,17 @@
-Hi there, I’m Himal Bhattarai 👋
+Hi there! 👋 I'm Himal Bhattarai
 ===============================
 
-About
------------------------------
+## 👨‍💻 About Me
 
-* 🌍  I'm based in Damak, Nepal
-* 🖥️  See my portfolio at [himalbhattarai.vercel.app](http://himalbhattarai.vercel.app)
-* ✉️  You can contact me at [himalbhattaraiofficial@gmail.com](mailto:himalbhattaraiofficial@gmail.com)
-* 🚀  I’m currently working on some exciting full-stack projects.
-* 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+- 🚀 I’m currently working on some exciting full-stack projects.
+- 🌱 I'm currently learning **Typescript**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: **himalbhattaraiofficial@gmail.com**
+- 🌐 Check out my portfolio: **[himalbhattarai.vercel.app](https://himalbhattarai.vercel.app)**
 
 
-### Skills
+
+## 🛠️ Skills & Technologies
 
 
 <p align="left">
@@ -20,12 +19,16 @@ About
 </p>
 
 
-### Socials
+## 🤝 Let's Connect!
 
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a> <a href="http://x.com/himalbhattaraix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" /></a> <a href="http://instagram.com/himalbhattaraiofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" /></a></p>
+<div align="left">
+    
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
+  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/himalbhattaraix)
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/himalbhattaraiofficial)
+  
+</div>
 
-### Badges
-
-<b>My GitHub Stats</b>
+## 📊 GitHub Stats
 
 <a href="http://www.github.com/himalbhattaraiofficial"><img src="https://github-readme-stats.vercel.app/api?username=himalbhattaraiofficial&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="himalbhattaraiofficial's GitHub stats" /></a>
