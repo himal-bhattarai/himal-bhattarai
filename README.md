@@ -28,7 +28,3 @@ Hi there! 👋 I'm Himal Bhattarai
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/himalbhattaraiofficial)
   
 </div>
-
-## 📊 GitHub Stats
-
-<a href="http://www.github.com/himalbhattaraiofficial"><img src="https://github-readme-stats.vercel.app/api?username=himalbhattaraiofficial&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="himalbhattaraiofficial's GitHub stats" /></a>
