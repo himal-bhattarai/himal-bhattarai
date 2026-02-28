@@ -1,30 +1,24 @@
-Hi there! 👋 I'm Himal Bhattarai
-===============================
+# Hi, I'm Himal Bhattarai 👋
 
-## 👨‍💻 About Me
+Full stack developer building random projects and figuring things out one bug at a time.
 
-- 🚀 I’m currently working on some exciting full-stack projects.
-- 🌱 I'm currently learning **Typescript**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **himalbhattaraiofficial@gmail.com**
-- 🌐 Check out my portfolio: **[himalbhattarai.vercel.app](https://himalbhattarai.vercel.app)**
+---
 
+## About
 
+- 🔭 Currently building **random projects**
+- 🌱 Learning **JavaScript, React & Node.js**
+- 📫 Reach me at **himalbhattariofficial@gmail.com**
 
-## 🛠️ Skills & Technologies
+---
 
+## Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,python,git,github,vercel,linux,html,css" />
-</p>
+![Tech](https://skillicons.dev/icons?i=js,react,tailwind,html,css,nodejs,express,mongodb,git,github,vercel,vscode)
 
+---
 
-## 🤝 Let's Connect!
+## Connect
 
-<div align="left">
-    
-  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
-  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/himalbhattaraix)
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/himalbhattaraiofficial)
-  
-</div>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/himalbhattaraix)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://himalbhattarai.vercel.app)
