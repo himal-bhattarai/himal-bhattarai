@@ -1,24 +1,9 @@
 # Hi, I'm Himal Bhattarai 👋
 
-Full stack developer building random projects and figuring things out one bug at a time.
+Full-stack web developer who enjoys building clean, functional web experiences.
+I like turning ideas into products that are simple to use and nice to look at.
+When I'm not coding, I'm probably exploring new tools or breaking things just to fix them.
 
 ---
 
-## About
-
-- 🔭 Currently building **random projects**
-- 🌱 Learning **JavaScript, React & Node.js**
-- 📫 Reach me at **himalbhattariofficial@gmail.com**
-
----
-
-## Tech Stack
-
-![Tech](https://skillicons.dev/icons?i=js,react,tailwind,html,css,nodejs,express,mongodb,git,github,vercel,vscode)
-
----
-
-## Connect
-
-[![X](https://img.shields.io/badge/Twitter-2d3047?style=flat&logo=x&logoColor=white)](https://x.com/himalbhattaraix)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2d3047?style=flat&logo=vercel&logoColor=white)](https://himalbhattarai.vercel.app)
+*Always building, always learning.*
